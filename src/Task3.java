@@ -28,7 +28,7 @@ public class Task3 {
     }
 
     public static void main(String[] args) {
-        // Вывести все простые числа от 1 до 1000 (до n)
+        // Создать простейший калькулятор
         var scan = new Scanner(System.in);
         System.out.print("Первое число: ");
         int numa = scan.nextInt();
