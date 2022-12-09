@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task1 {
+public class Task1_1 {
     public static int triangleNum(int n) {
         int res = 0;
         for (int i = 1; i <= n; i++) res += i;

@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task3 {
+public class Task1_3 {
     public static boolean isOperation(String operation) {
         String[] operations = {"+", "-", "/", "*"};
         return Arrays.asList(operations).contains(operation);

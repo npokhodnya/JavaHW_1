@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Task2 {
+public class Task1_2 {
     public static boolean isPrime(int n) {
         if (n <= 1) return false;
         else if (n == 2) return true;
